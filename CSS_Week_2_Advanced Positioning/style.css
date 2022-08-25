@@ -1,0 +1,62 @@
+main{
+    width: 600px;
+    height: 600px;
+    background-color: #DCB8FE;
+    margin: 50px auto;
+ }
+
+.kafa{
+    width: 400px;
+    height: 400px;
+    background-color: #F2D8D1;
+    border-radius: 50%;
+    position: relative;
+    top: 70px;
+    left: 100px;
+
+}
+.goz-kutusu{
+    display: flex;
+}
+.goz{
+    width: 50px;
+    height: 50px;
+    background-color: gray;
+    border-radius: 50%;
+    position: relative;
+    top:110px;
+    left: 100px;
+}
+.goz2{
+    left: 200px;
+}
+.gozici{
+    width: 46px;
+    height: 46px;
+    background-color:#F2D8D1  ;
+    border-radius: 50%;
+    position: relative;
+    top: 2px;
+    left: 1px;
+
+}
+.gozbebegi{
+    width: 15px;
+    height: 15px;
+    background-color:#1c100c  ;
+    border-radius: 50%;
+    position: relative;
+    top: 18px;
+    left: 0px;
+
+}
+.kare{
+    width: 15px;
+    height: 15px;
+    background-color:#0c181c  ;
+    border-radius: 50%;
+    position: relative;
+    top: 18px;
+    left: 0px;
+    
+}
