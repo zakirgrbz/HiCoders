@@ -1,0 +1,14 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.line
+{display: flex;
+background-color: aqua;
+justify-content: space-around;
+margin-bottom: ;
+}
+.nav-left{
+    display: flex;
+    justify-content: space-between;
+    }

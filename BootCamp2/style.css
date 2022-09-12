@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+main{
+    display: flex;
+}
+.left{
+    background-color: aqua;
+   width: 200px;
+   color: black;
+   
+}
+.left div a{
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 25px;
+    color: black;
+    
+}
+.right{
+    display:flex ;
+    flex-wrap: wrap;
+}
+img{
+    width: 250px;
+    height: 300px;
+    border: 1px solid grey;
+    box-shadow: 5px 5px 5px 5px rgb(161, 159, 159);
+}
